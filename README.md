@@ -1,4 +1,4 @@
-# yes
+# ICS4U-Intro-06-Typescript
 
 To install dependencies:
 
